@@ -10,3 +10,4 @@ Codexから編集しました
 - git push
 この変更はprotectionの検証です
 この変更はprotectionの検証です2回目
+この変更はprotectionの検証です3回目
