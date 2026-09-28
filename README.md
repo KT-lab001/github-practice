@@ -8,3 +8,4 @@ Codexから編集しました
 - git add
 - git commit
 - git push
+この変更はprotectionの検証です
